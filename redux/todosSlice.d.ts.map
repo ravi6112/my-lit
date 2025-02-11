@@ -1,0 +1,1 @@
+{"version":3,"file":"todosSlice.d.ts","sourceRoot":"","sources":["../src/redux/todosSlice.ts"],"names":[],"mappings":"AAoCA,eAAO,MAAQ,OAAO,6EAAE,gBAAgB,sFAAE,cAAc,kFAAE,YAAY,gFAAsB,CAAC;;WA5B5E,KAAK,CAAC;QAAE,IAAI,EAAE,MAAM,CAAC;QAAC,SAAS,EAAE,OAAO,CAAA;KAAE,CAAC;;;AA6B5D,wBAAiC"}
